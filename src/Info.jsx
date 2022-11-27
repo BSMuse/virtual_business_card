@@ -6,7 +6,7 @@ function Info() {
     <div className="info">
         <h2>About</h2>
         <p>
-            I am a web developer with a particular fascination with APIs and how to implement them for productivity and other use cases.
+            I am a web developer with a particular fascination with APIs and how to implement them for productivity and other use-cases.
         </p>
         <p>
             I'm a life-long learner, self-starter, and problemologist by nature. 
