@@ -1,0 +1,15 @@
+.info {
+    margin: 2em 2.125em 1.5em 2.125em;
+    font-size: 0.625em;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-bottom: -0.25em;
+}
+
+p {
+    word-spacing: 0.15em;
+    line-height: 1.5em;
+}
